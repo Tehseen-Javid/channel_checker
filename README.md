@@ -1,6 +1,4 @@
-Below is a sample `README.md` file for the script you provided:
 
-```markdown
 # UDP/RTP Link Testing Script
 
 ## Overview
@@ -106,6 +104,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any issues or questions, please contact [yourname@example.com](mailto:yourname@example.com).
-```
 
-This `README.md` should give users a clear understanding of how to use your script, including setup, usage, and additional features like logging and email reporting.
+
